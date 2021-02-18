@@ -33,7 +33,23 @@ body{
     width: 1200px;
     margin: auto;
 }
-
+.a{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 3px solid darkred;
+    box-shadow: darkred 0px 0px 10px 0px;
+    background-color: darkred;
+    display: block;
+    margin: 10px;
+    text-align: center;
+    background-size: cover;
+    background-position: center; 
+    font-size: 32px;
+    background-image: url('https://new-year.spartacodingclub.kr/images/yearS1.png');
+    color: white;
+    margin: 80px auto 50px auto;
+}
 .item a{
     width: 150px;
     height: 150px;
@@ -45,19 +61,58 @@ body{
     margin: 10px;
     background-size: cover;
     background-position: center;
+    font-size: 24px;
 }
-.a1 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS1.png'); }
-.a2 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS2.png'); }
-.a3 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS3.png'); }
-.a4 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS4.png'); }
-.a5 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS5.png'); }
-.a6 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS6.png'); }
-.a7 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS7.png'); }
-.a8 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS8.png'); }
-.a9 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS9.png'); }
-.a10 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS10.png'); }
-.a11 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS11.png'); }
-.a12 { background-image: url('https://new-year.spartacodingclub.kr/images/yearS12.png'); }
+.a1 {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+     background-image: url('https://new-year.spartacodingclub.kr/images/yearS1.png'); }
+.a2 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS2.png'); }
+.a3 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS3.png'); }
+.a4 { text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;background-image: url('https://new-year.spartacodingclub.kr/images/yearS4.png'); }
+.a5 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS5.png'); }
+.a6 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS6.png'); }
+.a7 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS7.png'); }
+.a8 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS8.png'); }
+.a9 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS9.png'); }
+.a10 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS10.png'); }
+.a11 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize; background-image: url('https://new-year.spartacodingclub.kr/images/yearS11.png'); }
+.a12 {text-align: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;background-image: url('https://new-year.spartacodingclub.kr/images/yearS12.png'); }
 
 .item a:hover{
     background-color: firebrick;
